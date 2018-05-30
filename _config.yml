@@ -7,7 +7,7 @@ title: Hexo
 subtitle:
 description:
 keywords:
-author: John Doe
+author: Jerry Yang
 language:
 timezone:
 
@@ -78,6 +78,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-type: git
-repo: https://github.com/yangjjie94/yangjjie94.github.io.git
-branch: master
+    type:git
+    repo:https://github.com/yangjjie94/yangjjie94.github.io.git
+    branch: master
